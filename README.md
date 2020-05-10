@@ -16,7 +16,7 @@ We perform class rebalancing and image augmentation (both geometric and intensit
 N.B. The masks for the ISIC-2015 datasets, from our DSNet, will be provided (on request) for research purposes, as they are not available yet. 
 
 
-Contact <br>
+** Contact <br>
 Md. Kamrul Hasan <br>
 Assistant Professor  <br>
 Department of Electrical and Electronic Engineering  <br>
