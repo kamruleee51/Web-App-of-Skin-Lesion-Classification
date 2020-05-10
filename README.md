@@ -3,7 +3,7 @@
 Skin cancer is one of the deadliest and severe diseases all over the world that can be easily understood if we see different census on skin cancer and its effect on mankind. 
 In this research, we have proposed a pipeline named Dermoscopic Expert (DermoExpert), which detects the cancer region as well as types of lesions. The block diagram of the proposed DermoExpert is shown below: <br>
 
-<img src="https://user-images.githubusercontent.com/32570071/81511654-aabc2800-933c-11ea-996b-374f10977d6a.png" width="700" height="350">
+<img src="https://user-images.githubusercontent.com/32570071/81511654-aabc2800-933c-11ea-996b-374f10977d6a.png" width="800" height="400">
 
 The proposed DermoExpert has been trained on three different datasets of the ISIC open challenge. To perform the segmentation, we use our recently published state-of-the-art DSNet, which can be found in the link below:  
 
@@ -15,7 +15,7 @@ https://www.sciencedirect.com/science/article/abs/pii/S0010482520301190
 
 **Result for Segmentation (ISIC-2016):**
 
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://www.youtube.com/watch?v=kB0Bf5D0WsA&feature=youtu.be)
+[![Watch the video]<img src="https://user-images.githubusercontent.com/32570071/81511654-aabc2800-933c-11ea-996b-374f10977d6a.png" width="80" height="40">](https://www.youtube.com/watch?v=kB0Bf5D0WsA&feature=youtu.be)
 
 
 We perform class rebalancing and image augmentation (both geometric and intensity-based augmentation). The details of the implementation and source code will be upload soon. 
