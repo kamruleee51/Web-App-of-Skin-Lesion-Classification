@@ -13,18 +13,17 @@ https://github.com/kamruleee51/Skin-Lesion-Segmentation-Using-Proposed-DSNet
 Journal: <br>
 https://www.sciencedirect.com/science/article/abs/pii/S0010482520301190 
 
-**Video (Click on Image) for Result for Segmentation (ISIC-2016):**
+## Results for Segmentation for ROI Extraction
 
+**Video (Click on Image) for Result for Segmentation (ISIC-2016):**
 [<img src="https://user-images.githubusercontent.com/32570071/81512952-7d747780-9346-11ea-984c-9175b33b68ab.png"  width="200" height="120">](https://www.youtube.com/watch?v=kB0Bf5D0WsA&feature=youtu.be)
 
 
 **Video (Click on Image) for Result for Segmentation (ISIC-2017):**
-
 [<img src="https://user-images.githubusercontent.com/32570071/81513194-620a6c00-9348-11ea-8a91-1dbad8836502.png"  width="200" height="120">](https://www.youtube.com/watch?v=m3u58LN9lns&feature=youtu.be)
 
 
 **Video (Click on Image) for Result for Segmentation (ISIC-2018):**
-
 [<img src="https://user-images.githubusercontent.com/32570071/81513229-a269ea00-9348-11ea-800f-3e68ef0fb537.png"  width="200" height="120">](https://www.youtube.com/watch?v=r4hxv8WdQHM&feature=youtu.be)
 
 We perform class rebalancing and image augmentation (both geometric and intensity-based augmentation). The details of the implementation and source code will be upload soon. 
