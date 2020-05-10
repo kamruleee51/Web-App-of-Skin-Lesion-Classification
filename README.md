@@ -18,6 +18,8 @@ https://www.sciencedirect.com/science/article/abs/pii/S0010482520301190
 
 [Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=kB0Bf5D0WsA&feature=youtu.be)
 
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://www.youtube.com/watch?v=kB0Bf5D0WsA&feature=youtu.be)
+
 
 We perform class rebalancing and image augmentation (both geometric and intensity-based augmentation). The details of the implementation and source code will be upload soon. 
 
