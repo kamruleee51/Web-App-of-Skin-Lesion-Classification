@@ -5,6 +5,7 @@ In this research, we have proposed a pipeline named Dermoscopic Expert (DermoExp
 
 ![DermoExpert](https://user-images.githubusercontent.com/32570071/81511654-aabc2800-933c-11ea-996b-374f10977d6a.png | width =250)
 
+<img src="https://user-images.githubusercontent.com/32570071/81511654-aabc2800-933c-11ea-996b-374f10977d6a.png" width="48">
 
 The proposed DermoExpert has been trained on three different datasets of the ISIC open challenge. To perform the segmentation, we use our recently published state-of-the-art DSNet, which can be found in the link below:  
 
