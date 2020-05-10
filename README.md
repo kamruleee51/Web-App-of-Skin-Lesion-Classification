@@ -7,13 +7,16 @@ In this research, we have proposed a pipeline named Dermoscopic Expert (DermoExp
 
 The proposed DermoExpert has been trained on three different datasets of the ISIC open challenge. To perform the segmentation, we use our recently published state-of-the-art DSNet, which can be found in the link below:  
 
-GitHub: 
+GitHub: <br>
+https://github.com/kamruleee51/Skin-Lesion-Segmentation-Using-Proposed-DSNet
 
-Journal: 
+Journal: <br>
+https://www.sciencedirect.com/science/article/abs/pii/S0010482520301190 
+
 
 We perform class rebalancing and image augmentation (both geometric and intensity-based augmentation). The details of the implementation and source code will be upload soon. 
 
-N.B. The masks for the ISIC-2015 datasets, from our DSNet, will be provided (on request) for research purposes, as they are not available yet. 
+**N.B.** The masks for the ISIC-2015 datasets, from our DSNet, will be provided (on request) for research purposes, as they are not available yet. 
 
 
 **Contact** <br>
