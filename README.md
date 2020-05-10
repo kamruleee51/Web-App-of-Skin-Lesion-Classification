@@ -26,12 +26,26 @@ https://www.sciencedirect.com/science/article/abs/pii/S0010482520301190
 **Video (Click on Image) for Result for Segmentation (ISIC-2018):**
 [<img src="https://user-images.githubusercontent.com/32570071/81513229-a269ea00-9348-11ea-800f-3e68ef0fb537.png"  width="200" height="120">](https://www.youtube.com/watch?v=r4hxv8WdQHM&feature=youtu.be)
 
-We perform class rebalancing and image augmentation (both geometric and intensity-based augmentation). The details of the implementation and source code will be upload soon. 
-
 **N.B.** The masks for the ISIC-2015 datasets, from our DSNet, will be provided (on request) for research purposes, as they are not available yet. 
 
+## Results for Classification
 
-**Contact** <br>
+We perform class rebalancing and image augmentation (both geometric and intensity-based augmentation). The details of the implementation and source code will be upload soon................................ 
+
+**Video (Click on Image) for Result for Classification (ISIC-2016):**
+[<img src="https://user-images.githubusercontent.com/32570071/81513314-78fd8e00-9349-11ea-99f6-a08aaaf41885.png"  width="200" height="120">](https://www.youtube.com/watch?v=wwHwkQmigqU&feature=youtu.be)
+
+
+**Video (Click on Image) for Result for Classification (ISIC-2017):**
+[<img src="https://user-images.githubusercontent.com/32570071/81513326-916da880-9349-11ea-9716-ba55287f3252.png"  width="200" height="120">](https://www.youtube.com/watch?v=1Dn5l4g4h6Y&feature=youtu.be)
+
+
+**Video (Click on Image) for Result for Classification (ISIC-2018):**
+[<img src="https://user-images.githubusercontent.com/32570071/81513335-a813ff80-9349-11ea-8146-806325f80919.png"  width="200" height="120">](https://www.youtube.com/watch?v=NXVw2cyqd6k&feature=youtu.be)
+
+
+
+### Contact Details
 Md. Kamrul Hasan <br>
 Assistant Professor  <br>
 Department of Electrical and Electronic Engineering  <br>
